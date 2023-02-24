@@ -1,4 +1,15 @@
 # app-store-dron
+El proyecto esta realizado con vue3 para hacer correr json server ejecure el siguiente comando
+
+```
+ json-server --watch db.json
+```
+
+## Integrantes
+
+```
+    SERGIO OMAR SANDY CORDOVA
+```
 
 ## Project setup
 ```
